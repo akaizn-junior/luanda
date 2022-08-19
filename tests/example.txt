@@ -1,0 +1,13 @@
+
+
+urls = [
+  "https://reddit.com/r/cats"
+]
+
+figureImage = "figure img"
+linkImg = "a img"
+
+linkImg {
+  
+}
+
